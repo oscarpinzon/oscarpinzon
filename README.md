@@ -29,4 +29,4 @@ I build reliable web apps end-to-end and ship them with CI/CD on AWS.
 **Testing:** Vitest/Jest, xUnit, Playwright
 
 ## Contact
-[Email](mailto:oscar.eugenio.pinzon@gmail.com) · [LinkedIn](https://linkedin.com/in/oscareugeniopinzon) · [Portfolio](https://www.oscarpinzon.com)
+[Email](mailto:oscar.eugenio.pinzon@gmail.com) · [LinkedIn](https://linkedin.com/in/oscareugeniopinzon)
