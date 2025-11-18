@@ -17,10 +17,6 @@ I build reliable web apps end-to-end and ship them with CI/CD on AWS.
   *Tech:* React, TypeScript, Vite, Vitest, Storybook, GitHub Actions  
   *Repo/Demo:* [oscarpinzon/accessible-combobox-react](https://github.com/oscarpinzon/accessible-combobox-react) · [Live](https://oscarpinzon.github.io/accessible-combobox-react/)
 
-- **Portfolio (Next.js)** — personal site with projects and contact. Demonstrates Next.js/React stack and deployment.  
-  *Tech:* Next.js, TypeScript, Vercel  
-  *Repo:* [oscarpinzon/portfolio_next_js](https://github.com/oscarpinzon/portfolio_next_js) · [Website](https://www.oscarpinzon.com)
-
 ## Skills
 **Frontend:** Angular, React, TypeScript, Tailwind, SCSS
 **Backend:** .NET (REST), Node/Express
