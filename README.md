@@ -4,7 +4,7 @@
 I build reliable web apps end-to-end and ship them with CI/CD on AWS.
 
 ## Highlights
-- Shipped features across multiple edtech SaaS products used by **30k+ instructors**.
+- Shipped features across multiple edtech SaaS products used by **30k+ subscribers**.
 - Cut **blue-green deploys from 60 → 10 minutes** using CloudFormation and AWS pipelines.
 - Reduced **critical defects ~30%** and improved **page-load ~20%** through testing and perf work.
 
