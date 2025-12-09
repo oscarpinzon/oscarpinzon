@@ -1,7 +1,8 @@
 # Hi, I'm Oscar 👋
-**Full-stack Software Engineer**
+**Full-Stack Software Engineer**
 
-I build reliable web apps end-to-end and ship them with CI/CD.
+Shipping user-facing features and keeping releases boring (in the best way).
+I work across frontend, backend, and platform: building product features, tightening CI/CD, and leaving systems cleaner than I found them.
 
 ## Highlights
 - Shipped features across multiple edtech SaaS products used by **30k+ subscribers**.
@@ -18,11 +19,17 @@ I build reliable web apps end-to-end and ship them with CI/CD.
   *Repo/Demo:* [oscarpinzon/accessible-combobox-react](https://github.com/oscarpinzon/accessible-combobox-react) · [Live](https://oscarpinzon.github.io/accessible-combobox-react/)
 
 ## Skills
-**Frontend:** Angular, React, TypeScript, Tailwind, SCSS
-**Backend:** .NET (REST), Node/Express
-**Data:** SQL, Postgres, MySQL
-**Cloud/DevOps:** AWS (IAM, CloudFormation, CloudWatch, EC2), Docker, GitHub Actions, TeamCity
-**Testing:** Vitest/Jest, xUnit, Playwright
+**Languages:** C#, TypeScript, JavaScript, HTML, CSS, Python, PowerShell, Java
+
+**Frontend:** Angular, React, Next.js, Tailwind, Sass, many others (jQuery, Bootstrap, etc.)
+
+**Backend:** ASP.NET Core, Entity Framework Core, Node.js, Express
+
+**Data:** SQL, PostgreSQL, MySQL, pandas
+
+**Cloud/DevOps:** AWS, Azure, Terraform, IaC, Docker, GitHub Actions, TeamCity, Azure DevOps, CI/CD
+
+**Testing:** Vitest, Jest, xUnit, Playwright, Storybook
 
 ## Contact
 [Email](mailto:oscar.eugenio.pinzon@gmail.com) · [LinkedIn](https://linkedin.com/in/oscareugeniopinzon)
