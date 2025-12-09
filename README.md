@@ -1,11 +1,11 @@
 # Hi, I'm Oscar 👋
-**Full-stack Software Engineer — Angular • .NET • AWS • CI/CD**
+**Full-stack Software Engineer**
 
-I build reliable web apps end-to-end and ship them with CI/CD on AWS.
+I build reliable web apps end-to-end and ship them with CI/CD.
 
 ## Highlights
 - Shipped features across multiple edtech SaaS products used by **30k+ subscribers**.
-- Cut **blue-green deploys from 60 → 10 minutes** using CloudFormation and AWS pipelines.
+- Cut **blue-green deploys from 60 → 10 minutes** using Terraform and AWS pipelines.
 - Reduced **critical defects ~30%** and improved **page-load ~20%** through testing and perf work.
 
 ## What I’m working on
